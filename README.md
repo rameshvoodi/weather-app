@@ -17,3 +17,7 @@ using yarn:
   yarn add react-accessible-accordion
   yarn add react-select-async-paginate
 ```
+
+## Live website:
+
+[click me](https://weather-app-one-dusky.vercel.app/)
