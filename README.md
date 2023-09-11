@@ -1,6 +1,6 @@
 # Weather App
 
-made using React
+This is Web App made using Reactjs thay displays real-time data. This app has concepts like pagination too.
 
 ## libraries used
 
